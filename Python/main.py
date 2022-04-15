@@ -1,3 +1,1 @@
-import os
-
-print("Olá")
+print("Iniciando aplicação\nPreparando serviço...")
