@@ -1,4 +1,4 @@
-from CorePy.dados import ObjDados
+from dados import ObjDados
 
 
 print("Iniciando aplicação\nPreparando serviço...")
